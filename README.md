@@ -16,7 +16,7 @@
   <br>
   <br>
   
- ![](https://komarev.com/ghpvc/?username=benedettoscala)
+ ![](https://komarev.com/ghpvc/?username=benedettoscala&color=brightgreen)
  
  <br>
  <br>
