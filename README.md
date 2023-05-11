@@ -6,6 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=benedettoscala&theme=cobalt&show_icons=true)" />
 </a>
 <br>
+<br>
 <a href="https://github.com/benedettoscala?tab=repositories">
  <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedettoscala&hide=html,TypeScript,CSS,C++,PowerShell,CMake,Swift,batchfile&layout=compact&theme=cobalt"/>
   </a>
