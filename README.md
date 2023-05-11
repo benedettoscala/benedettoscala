@@ -7,9 +7,6 @@
 </a>
 <br>
 <br>
-<a href="https://github.com/benedettoscala?tab=repositories">
- <img align= "center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=benedettoscala&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats"/>
-  </a>
   <br>
   <br>
   
