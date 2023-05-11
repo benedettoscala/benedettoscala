@@ -3,7 +3,7 @@
 <b><p align="center"> I'm 21 and i study computer science at the university of Salerno. </p> </b><br>
 
 <a href="https://github.com/benedettoscala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benedettoscala&theme=synthwave&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benedettoscala&theme=cobalt&show_icons=true)" />
 </a>
 <br>
   <br>
