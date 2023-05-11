@@ -8,7 +8,7 @@
 <br>
 <br>
 <a href="https://github.com/benedettoscala?tab=repositories">
- <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedettoscala&hide=Swift,batchfile&layout=compact&theme=cobalt"/>
+ <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benedettoscala&,batchfile&layout=compact&theme=cobalt"/>
   </a>
   <br>
   <br>
