@@ -1,6 +1,6 @@
 <h1 align="center"> Hi everyone, I'm Benedetto Scala. </h1> 
   <br>
-  <h2> I am an M.Sc. Computer Science student at the University of Salerno, with a focus on Software Engineering and Artificial Intelligence. My enthusiasm extends to exploring all aspects of the ever-emerging concept of the Metaverse,such as Virtual and Mixed Reality.</h2>
+  <h2> I am an M.Sc. Computer Science student at the University of Salerno, with a focus on Software Engineering and Artificial Intelligence. My enthusiasm extends to exploring all aspects of the ever-emerging concept of the Metaverse, such as Virtual and Mixed Reality.</h2>
   <br>
 <a href="https://github.com/benedettoscala">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=benedettoscala&theme=cobalt&show_icons=true)" />
