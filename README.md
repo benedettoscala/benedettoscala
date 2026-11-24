@@ -1,18 +1,1 @@
-<h1 align="center"> Hi everyone, I'm Benedetto Scala. </h1> 
-  <br>
-  <h2> I am an M.Sc. Computer Science student at the University of Salerno, with a focus on Software Engineering.</h2>
-  <br>
-<a href="https://github.com/benedettoscala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=benedettoscala&theme=cobalt&show_icons=true)" />
-</a>
-<br>
-<br>
-  <br>
-  <br>
-  
- ![](https://komarev.com/ghpvc/?username=benedettoscala&color=brightgreen)
- 
- <br>
- <br>
-
- 
+<h1 align="center">Hi, I'm Benedetto Scala 👋</h1> <p align="center"> <b>Software Designer @ Ericsson</b><br> Building AI and ML software for the ADP organization </p> <p align="center"> <a href="https://github.com/benedettoscala?tab=repositories"> <img src="https://img.shields.io/badge/Ericsson-ADP-0082F0?style=for-the-badge&logoColor=white" alt="Ericsson ADP" /> </a> <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-8A2BE2?style=for-the-badge" alt="Focus: AI and ML" /> <img src="https://komarev.com/ghpvc/?username=benedettoscala&color=brightgreen&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile views" /> </p>
